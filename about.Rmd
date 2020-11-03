@@ -1,0 +1,114 @@
+---
+title: "About Me"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+## Professional Experience  
+  
+### EDUCATION
+
+**Columbia University,Mailman School of Public Health**
+
+*Master of Public Health, Biostatistics*
+
+*Certificate: Health Economics Outcomes Research*  
+ 
+ 
+  
+
+**Peking University, College of Life Sciences**
+
+*Bachelor of Science, Biological Sciences*
+
+*Concentration: Molecular Cellular Biology and Biostatistics*  
+
+
+
+### INTERNSHIP EXPERIENCE
+
+**PICC Capital Equity Investment Company Ltd.**										
+
+*Business Analyst Intern (Healthcare)*
+
+Jul 2020 - Present
+
+*	Assisted XtalPi Series C 50MM USD and BIOCYTOGEN Series D+ 150MM RMB investment by authoring analysis reports and delivering pitch deck for investment committee meetings
+
+*	Synthesizing information from interviews, due diligence reports, market research reports and scientific publications to analyze key questions and evaluate business models for internal decision-making
+
+*	Estimated values of R&D pipelines in both Chinese and US markets by calculating patient flow and researching competitors, performed sensitivity analysis of BIOCYTOGEN revenue trajectory to validate risk factors
+
+* Conducted 3 question-lead interviews with KOLs to acquire technological information of potential deal sources  
+
+**IQVIA**
+
+*Summer Analyst Intern*
+
+Jun 2019 - Aug 2019   
+
+* Authored 7 reports on clinical trial regulation by department (endocrinopathy, dermatology, gastroenterology and rheumatology) in 5 top-tier Chinese hospitals based on interview with KOLs and related regulatory departments
+
+*	Performed customer segmentation analysis for a non-dialysis chronic kidney disease drug by interviewing KOLs and integrating clinical trial results from NCBI clinical trial database and medical journals
+
+*	Generated small-molecule drug purchase recommendations by assessing price of competitive drugs and conducting cross-comparison of drug mechanism of action (MoA) to increase company’s market share  
+  
+
+**GE Healthcare**
+
+*Product Intern*   
+
+Jun 2017 – Aug 2017
+
+*	Developed MRI software plan proposal for level II Chinese hospitals (general care- and chronic disease management- oriented hospitals) by examining patient segmentation and stratifying medical needs by specific indications, which later generated more than $ 6M revenue in China in 2018
+
+*	Analyzed installation database to evaluate potential product IBU opportunities and target customers; communicated with clinical training experts to assess and improve the market plan  
+  
+  
+  
+### RESEARCH EXPERIENCE
+
+**Peking University, Xiaofeng Zheng Lab (Molecular Cellular and Cancer Biology)**
+
+Sep 2017 - May 2019
+
+*	Researched the Regulatory role of adenylate kinase on DNA damage response and its impact on leukemia using bioinformatics analysis and biochemical assays  
+  
+
+**UC Berkeley, Lee Riley Lab (Molecular Microbiology)**
+
+Feb - May 2017, Jul - Aug 2018
+
+*	Researched the prevalence of antibiotic resistant genes in commensal Gram-negative bacteria using sequencing data analysis and molecular microbiology assays  
+  
+  
+
+### PUBLICATION
+
+*	Xu, R., Yu, S., Zhu, D., Huang, X., **Xu, Y.**, Lao, Y., Tian, Y., Zhang, J., Tang, Z., Zhang, Z. and Yi, J., (2019). hCINAP regulates the DNA-damage response and mediates the resistance of acute myelocytic leukemia cells to therapy. Nature communications, 10(1), pp.1-15. [View full article](https://www.nature.com/articles/s41467-019-11795-5)
+
+*	Rubin, J., Mussio, K., **Xu, Y.**, Suh, J., & Riley, L. W. (2020). Prevalence of antimicrobial resistance genes and integrons in commensal Gram-negative bacteria in a college community. Microbial Drug Resistance. [View full article](https://www.liebertpub.com/doi/abs/10.1089/mdr.2019.0279)  
+
+
+
+### EXTRACURRICULAR ACTIVITY
+
+**Career China Club, Columbia University Medical Center**
+
+*VP (Public Relations)*
+
+*	Organized Alumni Panel events and Orientation events to connect students with career resources
+
+*	Co-organized Biostatistics Skill Workshops with Columbia Biostatistics Computing Club to deliver necessary database skills for job seeking and industrial practice  
+
+
+
+### SKILLS
+
+* Programming Languages: R, SQL (MySQL), SAS, Python, Stata, Microsoft VBA
+
+* Language: English (Fluent), Mandarin (Native)
+
