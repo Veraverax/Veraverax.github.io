@@ -5,9 +5,8 @@ output:
     toc: true
     toc_float: true
 ---
+\
 
-
-  
 ### EDUCATION
 
 **Columbia University,Mailman School of Public Health**
@@ -15,17 +14,16 @@ output:
 *Master of Public Health, Biostatistics*
 
 *Certificate: Health Economics Outcomes Research*  
- 
- 
-  
 
+ \
+ 
 **Peking University, College of Life Sciences**
 
 *Bachelor of Science, Biological Sciences*
 
 *Concentration: Molecular Cellular Biology and Biostatistics*  
 
-
+\
 
 ### INTERNSHIP EXPERIENCE
 
@@ -43,6 +41,8 @@ Jul 2020 - Present
 
 * Conducted 3 question-lead interviews with KOLs to acquire technological information of potential deal sources  
 
+\
+
 **IQVIA**
 
 *Summer Analyst Intern*
@@ -55,6 +55,7 @@ Jun 2019 - Aug 2019
 
 *	Generated small-molecule drug purchase recommendations by assessing price of competitive drugs and conducting cross-comparison of drug mechanism of action (MoA) to increase company’s market share  
   
+\
 
 **GE Healthcare**
 
@@ -66,8 +67,8 @@ Jun 2017 – Aug 2017
 
 *	Analyzed installation database to evaluate potential product IBU opportunities and target customers; communicated with clinical training experts to assess and improve the market plan  
   
-  
-  
+\  
+
 ### RESEARCH EXPERIENCE
 
 **Peking University, Xiaofeng Zheng Lab (Molecular Cellular and Cancer Biology)**
@@ -75,7 +76,8 @@ Jun 2017 – Aug 2017
 Sep 2017 - May 2019
 
 *	Researched the Regulatory role of adenylate kinase on DNA damage response and its impact on leukemia using bioinformatics analysis and biochemical assays  
-  
+
+\
 
 **UC Berkeley, Lee Riley Lab (Molecular Microbiology)**
 
@@ -83,7 +85,7 @@ Feb - May 2017, Jul - Aug 2018
 
 *	Researched the prevalence of antibiotic resistant genes in commensal Gram-negative bacteria using sequencing data analysis and molecular microbiology assays  
   
-  
+\
 
 ### PUBLICATION
 
@@ -91,7 +93,7 @@ Feb - May 2017, Jul - Aug 2018
 
 *	Rubin, J., Mussio, K., **Xu, Y.**, Suh, J., & Riley, L. W. (2020). Prevalence of antimicrobial resistance genes and integrons in commensal Gram-negative bacteria in a college community. Microbial Drug Resistance. [View full article](https://www.liebertpub.com/doi/abs/10.1089/mdr.2019.0279)  
 
-
+\
 
 ### EXTRACURRICULAR ACTIVITY
 
@@ -103,7 +105,7 @@ Feb - May 2017, Jul - Aug 2018
 
 *	Co-organized Biostatistics Skill Workshops with Columbia Biostatistics Computing Club to deliver necessary database skills for job seeking and industrial practice  
 
-
+\
 
 ### SKILLS
 
