@@ -4,28 +4,22 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
 ---
 
-## This is Vera Xu's website
 
 ### Introduction
 
-My name is Vera Xu. I use the pronouns she/her/hers.
+* My name is Vera Xu. 
 
-I am currently a second year MPH student at Columbia University Mailman School of Public Health. My professional interest is in the healthcare area, and my academic background combines biology, public health and biostatistics.
+* I use the pronouns she/her/hers. 
+
+* I am currently a second year MPH student at Columbia University Mailman School of Public Health.
+
+* My professional interest is in the healthcare area, and my academic background combines biology, public health and biostatistics.
 
 
 ### About Me
 
 Click [Here](about.html) for more information about my academic and professional experiences
 
-
-### Stay Connected
-
-* [Github](https://github.com/Veraverax)
-
-* [Email](mailto:yx2578@cumc.columbia.edu)
-
-* [LinkedIn](https://www.linkedin.com/in/yuqiveraxu/)
 
