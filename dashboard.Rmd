@@ -1,21 +1,18 @@
 ---
-title: "NY NOAA Plots "
+title: "Dashboard"
 output: 
-  html_document:
-    toc: true
-    toc_float: true
-
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+    source: embed
 ---
 
-This page provides plotting examples of the NY NOAA dataset using plotly.
-
-```{r, message = FALSE, warning = FALSE}
+```{r setup, include=FALSE}
+library(flexdashboard)
 library(tidyverse)
 library(p8105.datasets)
 library(plotly)
 ```
-
-The data subset used in plots are records of 10 randomly selected stations in 2010.
 
 ```{r}
 df =
@@ -38,9 +35,11 @@ df =
   mutate(date = paste(month, day, sep = "/"))
 ```
 
-##### Scatterplot
 
-This plot shows the minimum and maximum temperature and percipitation in the first half of 2010.
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
 
 ```{r}
 df %>%
@@ -51,9 +50,10 @@ df %>%
     color = ~prcp, text = ~text_label, alpha = 0.5)
 ```
 
-##### Boxplot
+Column {data-width=350}
+-----------------------------------------------------------------------
 
-This plot shows the minimum year round minimum temperature in 2010 among different stations.
+### Chart B
 
 ```{r}
 df %>% 
@@ -61,10 +61,8 @@ df %>%
   plot_ly(y = ~tmin, color = ~id, type = "box", colors = "viridis")
 ```
 
+### Chart C
 
-##### Boxplot 
-
-This plot shows distribution of snowing days by station.
 ```{r}
 df %>% 
   filter(snow>0) %>%
